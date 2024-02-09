@@ -1,0 +1,110 @@
+.carrossel {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.carrossel__titulo {
+    color: var(--laranja);
+    background-color: var(--azul);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1em 0;
+    width: 100%; 
+    margin: 0; 
+}
+
+.carrossel__imagens {
+    flex: 1;
+    margin: 10px;
+    width: 25%;
+    height: auto;
+}
+
+.card__descricao {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1em;
+
+}
+
+.card__botao {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--laranja);
+    padding: 1em 2.2em;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+.card__botao a {
+    color: var(--branco);
+    text-decoration: none;
+}
+
+.card {
+   background: var(--branco);
+   box-shadow: 0px 4px 4px rgba(0 ,0 ,0 , 0.25);
+   border-radius: 10px;
+   margin: 1em;
+   padding: 2em;
+  }
+
+  .descricao__titulo {
+    color: var(--laranja);
+    font-weight: 700;
+
+  }
+
+  .descricao__titulo-tutorial {
+    color: var(--azul);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5em 0;
+}
+
+.descricao__texto {
+    font-size: 14px;
+}
+
+.imagem__do-card {
+    width: 160px;
+    height: 160px; 
+    border-radius: 90px;
+}
+
+.paragrafos__descrição-texto1 {
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+    padding: 1em;
+    letter-spacing: 1px; 
+    line-height: 1.5;
+}
+
+.card__recomendacao {
+   background: var(--azul);
+   box-shadow: 0px 4px 4px rgba(0 ,0 ,0 , 0.25);
+   border-radius: 10px;
+   margin: 1em;
+   padding: 2em;
+}
+
+.recomendacao__foto-da-pesoa {
+    float: right;
+    margin: 5px;
+    width: 141px;
+}
+
+.recomendacao p {
+    color: var(--branco);
+    font-weight: 200;
+    font-style: italic;
+}
+.recomendacao h2 {
+    
+    font-weight: 700;
+    color: var(--laranja);
+}
+
