@@ -108,3 +108,29 @@
     color: var(--laranja);
 }
 
+@media  screen and (min-width:977px) {
+    
+    .carrossel__imagens {
+        max-width: 15%;
+        
+    } 
+
+    .fotos__container {
+        display: flex;
+        justify-content: center;
+        margin: 2em;
+        padding: 2em;
+    }
+
+    .paragrafos__descrição-texto1 {
+        display: flex;
+        justify-content: center;
+        width: 70%;
+        margin-top: 3px;
+    }
+
+    .ladoalado {
+        display: flex;
+        justify-content: space-between;
+    }
+}

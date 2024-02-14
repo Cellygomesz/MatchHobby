@@ -37,3 +37,16 @@
 .customMatchHobby {
     color: var(--azul);
 }
+
+.banner__titulo {
+    font-size: 36px;
+}
+
+@media  screen and (min-width:1728px) {
+    
+    .banner__pesquisa {
+        width: 70%;
+        
+    }
+}
+

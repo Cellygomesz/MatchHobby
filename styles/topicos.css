@@ -31,3 +31,11 @@
     font-weight: 700;
     border-radius: px;
 }
+
+@media  screen and (min-width:977px) {
+    
+    .topicos {
+        padding: 5em 5px;
+    }
+    
+}
