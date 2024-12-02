@@ -5,8 +5,16 @@ MatchHobby é um projeto de site projetado para Mobile em que as pessoas se conh
 ✔️ Responsividade para mobile
 <br>
 ⌛ Site para desktop ainda em construção (porém ja funciona, só precisa de alguns ajustes) 
+<br><br>
 
+## ⚙️ Instruções para verificação de código em PC:
+
+- Ao abrir o código no VsCode, use a extenção [Live Server].
+- Clique em "F12" em seu teclado.
 <br>
+
+<p align="center">----- Aproveite! 🙂 -----</p>
+
 <hr>
 <br>
 
