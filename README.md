@@ -1,9 +1,7 @@
 # 💙 MatchHobby
 <br>
 MatchHobby é um projeto de site projetado para Mobile em que as pessoas se conhecem atravéz dos seus interesses. Esse projeto foi feito Apenas com Html e Css.
-
-<br>
-
+<br><br>
 ✔️ Responsividade para mobile
 <br>
 ⌛ Site para desktop ainda em construção (porém ja funciona, só precisa de alguns ajustes) 
